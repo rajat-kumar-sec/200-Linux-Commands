@@ -1,15 +1,51 @@
-# 50 Essential Linux Commands 🐧
+# 100 Essential Linux Commands 🐧
 
-This repository contains a PDF guide covering 50 essential Linux commands with short descriptions.
+This repository contains a curated list of **100 essential Linux commands** with short and simple descriptions.
 
-📌 Useful for:
+It is designed for:
 - Beginners learning Linux
 - Cybersecurity students
-- System administration basics
-
-📂 File Included:
-- 50_Linux_Commands.pdf
+- System Administration learners
+- Anyone preparing for technical interviews
 
 ---
 
-⭐ If you find this helpful, feel free to star the repo!
+## 📂 Contents
+
+- 100_Linux_Commands.pdf
+
+---
+
+## 🎯 Why This Repository?
+
+Linux is a fundamental skill in:
+
+- Cybersecurity
+- Networking
+- Cloud Computing
+- DevOps
+- Ethical Hacking
+
+Understanding these commands builds a strong foundation for working in Linux environments and security-focused roles.
+
+---
+
+## 🚀 Future Improvements
+
+Planned updates:
+
+- Adding command syntax examples
+- Adding real terminal screenshots
+- Adding Linux commands for SOC Analysts
+- Bash scripting basics
+
+---
+
+## ⭐ Support
+
+If you find this helpful, consider giving this repository a star.
+
+---
+
+### Author
+Rajat Kumar
