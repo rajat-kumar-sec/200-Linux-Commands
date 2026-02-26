@@ -1,46 +1,56 @@
-# 🚀 100 Essential Linux Commands for Cybersecurity
+# 🚀 200 Essential Linux Commands for Cybersecurity & System Administration
 
-A structured collection of **100 essential Linux commands** every beginner, cybersecurity student, and system administrator should know.
+A structured and curated collection of **200 essential Linux commands** designed to build strong command-line fundamentals for:
 
-This repository is part of my continuous learning journey in Linux and Cybersecurity.
+- 🔐 Cybersecurity Enthusiasts
+- 🌐 Networking Students
+- ☁️ Cloud Learners
+- 🖥️ System Administrators
+- 🛠️ DevOps Beginners
+
+This repository represents continuous learning and practical Linux skill development.
 
 ---
 
-## 📌 About This Project
+## 📌 Project Overview
 
-Linux is the backbone of:
+Linux is the foundation of modern infrastructure and cybersecurity environments.  
+Understanding core commands is critical for working with servers, networks, security tools, and automation.
 
-- 🔐 Cybersecurity
-- 🌐 Networking
-- ☁️ Cloud Computing
-- 🖥️ System Administration
-- 🛠️ DevOps
-
-Mastering Linux commands is the first step toward becoming proficient in security operations and ethical hacking.
-
-This project compiles 100 fundamental commands with short descriptions to build a strong command-line foundation.
+This project compiles 200 commonly used Linux commands with short and clear descriptions to strengthen command-line proficiency.
 
 ---
 
 ## 📂 Repository Contents
 
-- 📄 `100_Linux_Commands.pdf` – Complete list of 100 commands with explanations
+- 📄 `200_Linux_Commands.pdf` – Complete list of 200 essential Linux commands
 
 ---
 
-## 🧠 Command Categories Covered
+## 🧠 Topics Covered
 
-The commands in this guide cover:
+The commands in this guide are categorized across:
 
-- 📁 File & Directory Management
-- 🔎 File Searching & Text Processing
-- 👤 User & Permission Management
-- 💾 Disk & Storage Management
-- 🌐 Networking Commands
-- ⚙️ Process Management
-- 🔄 System Monitoring
-- 📦 Compression & Archiving
-- 🔐 Remote Access & Secure Transfers
+### 📁 File & Directory Management
+Creating, moving, copying, deleting, and organizing files.
+
+### 🔍 Searching & Text Processing
+Filtering, parsing, and analyzing data using command-line tools.
+
+### 👤 User & Permission Management
+Managing users, groups, and access control.
+
+### ⚙️ Process & System Monitoring
+Tracking performance, running processes, and system health.
+
+### 💾 Disk & Filesystem Management
+Managing partitions, mounting systems, and disk usage.
+
+### 🌐 Networking & Security Commands
+Connectivity testing, packet capture, firewall tools, and remote access.
+
+### 📦 Package Management
+Installing and managing software across Linux distributions.
 
 ---
 
@@ -49,43 +59,46 @@ The commands in this guide cover:
 The goal of this repository is to:
 
 - Strengthen Linux fundamentals
-- Improve command-line confidence
-- Support cybersecurity skill development
-- Build a public learning portfolio
+- Improve real-world command-line confidence
+- Support cybersecurity learning
+- Build a structured public portfolio
+- Develop consistency through daily practice
 
 ---
 
-## 🚀 Future Improvements
+## 🚀 Future Enhancements
 
-Planned upgrades:
+Planned upgrades include:
 
-- Adding command syntax examples
-- Real-world usage examples
+- Command syntax examples
+- Real-world usage scenarios
 - Practical Linux labs
 - Bash scripting basics
-- Security-focused Linux commands
-- Markdown version of all commands
+- Security-focused command grouping
+- Markdown version of all 200 commands
+- Hands-on exercises
 
 ---
 
 ## 📈 Why This Matters
 
-Consistent Linux practice builds:
+Mastering Linux commands improves:
 
 - Problem-solving ability
 - System-level understanding
 - Security awareness
-- Confidence for internships & technical interviews
+- Technical interview readiness
+- Internship/job opportunities in cybersecurity
 
 ---
 
 ## ⭐ Support
 
-If you find this helpful, consider starring the repository.
+If this repository helps you, consider giving it a ⭐.
 
 ---
 
 ## 👨‍💻 Author
 
 Rajat Kumar  
-Cybersecurity Enthusiast | Linux Learner
+Cybersecurity Enthusiast | Linux Learner | Continuous Builder
