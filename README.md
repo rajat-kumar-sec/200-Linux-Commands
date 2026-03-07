@@ -19,7 +19,7 @@ Understanding core commands is critical for working with servers, networks, secu
 
 This project compiles 200 commonly used Linux commands with short and clear descriptions to strengthen command-line proficiency.
 
----
+-------- Still Updating This According to Time.......
 
 ## 📂 Repository Contents
 
