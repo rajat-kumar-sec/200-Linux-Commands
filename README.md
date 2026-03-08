@@ -80,7 +80,7 @@ Planned upgrades include:
 
 ---
 
-## 📈 Why This Matters
+## 📈 Why This Matters.....
 
 Mastering Linux commands improves:
 
