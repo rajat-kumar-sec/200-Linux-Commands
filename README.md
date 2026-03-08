@@ -92,7 +92,7 @@ Mastering Linux commands improves:
 
 ---
 
-## ⭐ Support
+## ⭐ Support......
 
 If this repository helps you, consider giving it a ⭐.
 
