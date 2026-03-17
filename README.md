@@ -31,7 +31,7 @@ This project compiles 200 commonly used Linux commands with short and clear desc
 
 The commands in this guide are categorized across:
 
-### 📁 File & Directory Management
+### 📁 File & Directory Management.
 Creating, moving, copying, deleting, and organizing files.
 
 ### 🔍 Searching & Text Processing
