@@ -12,7 +12,7 @@ This repository represents continuous learning and practical Linux skill develop
 
 ---
 
-## 📌 Project Overview.......
+## 📌 Project Overview........
 
 Linux is the foundation of modern infrastructure and cybersecurity environments.  
 Understanding core commands is critical for working with servers, networks, security tools, and automation.
