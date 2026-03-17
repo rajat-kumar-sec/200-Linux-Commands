@@ -37,7 +37,7 @@ Creating, moving, copying, deleting, and organizing files.
 ### 🔍 Searching & Text Processing.
 Filtering, parsing, and analyzing data using command-line tools.
 
-### 👤 User & Permission Management
+### 👤 User & Permission Management.
 Managing users, groups, and access control.
 
 ### ⚙️ Process & System Monitoring
