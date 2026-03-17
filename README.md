@@ -46,7 +46,7 @@ Tracking performance, running processes, and system health.
 ### 💾 Disk & Filesystem Management.
 Managing partitions, mounting systems, and disk usage.
 
-### 🌐 Networking & Security Commands
+### 🌐 Networking & Security Commands.
 Connectivity testing, packet capture, firewall tools, and remote access.
 
 ### 📦 Package Management
