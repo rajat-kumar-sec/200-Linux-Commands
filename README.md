@@ -49,7 +49,7 @@ Managing partitions, mounting systems, and disk usage.
 ### 🌐 Networking & Security Commands.
 Connectivity testing, packet capture, firewall tools, and remote access.
 
-### 📦 Package Management
+### 📦 Package Management.
 Installing and managing software across Linux distributions.
 
 ---
