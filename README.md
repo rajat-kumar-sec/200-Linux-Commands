@@ -40,7 +40,7 @@ Filtering, parsing, and analyzing data using command-line tools.
 ### 👤 User & Permission Management.
 Managing users, groups, and access control.
 
-### ⚙️ Process & System Monitoring
+### ⚙️ Process & System Monitoring.
 Tracking performance, running processes, and system health.
 
 ### 💾 Disk & Filesystem Management
