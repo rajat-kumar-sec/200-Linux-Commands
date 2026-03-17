@@ -43,7 +43,7 @@ Managing users, groups, and access control.
 ### ⚙️ Process & System Monitoring.
 Tracking performance, running processes, and system health.
 
-### 💾 Disk & Filesystem Management
+### 💾 Disk & Filesystem Management.
 Managing partitions, mounting systems, and disk usage.
 
 ### 🌐 Networking & Security Commands
