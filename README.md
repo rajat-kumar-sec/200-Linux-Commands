@@ -34,7 +34,7 @@ The commands in this guide are categorized across:
 ### 📁 File & Directory Management.
 Creating, moving, copying, deleting, and organizing files.
 
-### 🔍 Searching & Text Processing
+### 🔍 Searching & Text Processing.
 Filtering, parsing, and analyzing data using command-line tools.
 
 ### 👤 User & Permission Management
