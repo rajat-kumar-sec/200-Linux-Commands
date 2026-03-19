@@ -10,7 +10,7 @@ A structured and curated collection of **200 essential Linux commands** designed
 
 This repository represents continuous learning and practical Linux skill development.
 
----
+----
 
 ## 📌 Project Overview........
 
