@@ -58,11 +58,11 @@ Installing and managing software across Linux distributions.
 
 The goal of this repository is to:
 
-- Strengthen Linux fundamentals
-- Improve real-world command-line confidence
-- Support cybersecurity learning
-- Build a structured public portfolio
-- Develop consistency through daily practice
+- Strengthen Linux fundamentals.
+- Improve real-world command-line confidence.
+- Support cybersecurity learning.
+- Build a structured public portfolio.
+- Develop consistency through daily practice.
 
 ---
 
