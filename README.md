@@ -70,13 +70,13 @@ The goal of this repository is to:
 
 Planned upgrades include:
 
-- Command syntax examples
-- Real-world usage scenarios
-- Practical Linux labs
-- Bash scripting basics
-- Security-focused command grouping
-- Markdown version of all 200 commands
-- Hands-on exercises
+- Command syntax examples.
+- Real-world usage scenarios.
+- Practical Linux labs.
+- Bash scripting basics.
+- Security-focused command grouping.
+- Markdown version of all 200 commands.
+- Hands-on exercises.
 
 ---
 
