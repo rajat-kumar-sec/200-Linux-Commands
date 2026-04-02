@@ -84,11 +84,11 @@ Planned upgrades include:
 
 Mastering Linux commands improves:
 
-- Problem-solving ability
-- System-level understanding
-- Security awareness
-- Technical interview readiness
-- Internship/job opportunities in cybersecurity
+- Problem-solving ability.
+- System-level understanding.
+- Security awareness.
+- Technical interview readiness.
+- Internship/job opportunities in cybersecurity.
 
 ---
 
