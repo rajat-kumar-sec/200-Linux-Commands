@@ -94,7 +94,7 @@ Mastering Linux commands improves:
 
 ## ⭐ Support......
 
-If this repository helps you, consider giving it a ⭐.
+If this repository helps you, consider giving it a ⭐...
 If You want Some Upgrades which Make This Repository Better ..... Please Let me Know 
 
 ---
