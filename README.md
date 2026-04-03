@@ -68,7 +68,7 @@ The goal of this repository is to:
 
 ### 🚀 Future Enhancements........
 
-Planned upgrades include::
+Planned upgrades include:::
 
 - Command syntax examples.
 - Real-world usage scenarios.
