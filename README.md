@@ -6,7 +6,7 @@ A structured and curated collection of **200 essential Linux commands** designed
 - 🌐 Networking Students
 - ☁️ Cloud Learners
 - 🖥️ System Administrators
-- 🛠️ DevOps Beginners.
+- 🛠️ DevOps Beginners
 
 This repository represents continuous learning and practical Linux skill development.:
 
