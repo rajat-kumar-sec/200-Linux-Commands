@@ -10,7 +10,7 @@ A structured and curated collection of **200 essential Linux commands** designed
 
 This repository represents continuous learning and practical Linux skill development.
 
------
+
 
 ## 📌 Project Overview
 
@@ -25,7 +25,7 @@ Still Updating This According to Time
 
 - 📄 `200_Linux_Commands.pdf` – Complete list of 200 essential Linux commands Using Day to Day Life.
 
----
+
 
 ## 🧠 Topics Covered
 
@@ -64,7 +64,7 @@ The goal of this repository is to:
 - Build a structured public portfolio.
 - Develop consistency through daily practice.
 
----
+
 
 ### 🚀 Future Enhancements
 
@@ -78,7 +78,7 @@ Planned upgrades include
 - Markdown version of all 200 commands.
 - Hands-on exercises.
 
----
+
 
 ## 📈 Why This Matters
 
@@ -90,14 +90,14 @@ Mastering Linux commands improves:
 - Technical interview readiness.
 - Internship/job opportunities in cybersecurity.
 
----
+
 
 ## ⭐ Support
 
 If this repository helps you, consider giving it a ⭐...
 If You want Some Upgrades which Make This Repository Better ..... Please Let me Know 
 
----
+
 
 ## 👨‍💻 Author
 
