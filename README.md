@@ -52,7 +52,7 @@ Connectivity testing, packet capture, firewall tools, and remote access.
 ### 📦 Package Management.
 Installing and managing software across Linux distributions.
 
----
+
 
 ### 🎯 Learning Objective
 
