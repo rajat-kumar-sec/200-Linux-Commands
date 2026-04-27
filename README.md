@@ -27,7 +27,7 @@ Still Updating This According to Time
 
 
 
-## 🧠 Topics Covered
+## 🧠 Topics Covered:
 
 The commands in this guide are categorized across:
 
