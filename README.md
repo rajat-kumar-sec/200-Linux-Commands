@@ -1,4 +1,4 @@
-# 🚀 200 Essential Linux Commands for Cybersecurity & System Administrations
+# 🚀 200 Essential Linux Commands for Cybersecurity & Systems Administrations
 
 A structured and curated collection of **200 essential Linux commands** designed to build strong command-lines fundamentals for:
 
