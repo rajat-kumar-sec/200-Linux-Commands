@@ -82,7 +82,7 @@ Planned upgrades include
 
 ## 📈 Why This Matters
 
-Mastering Linux commands improves:
+Mastering Linux commands improves
 
 - Problem-solving ability.
 - System-level understanding.
