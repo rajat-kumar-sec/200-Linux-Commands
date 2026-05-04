@@ -54,7 +54,7 @@ Installing and managing software across Linux distributions.
 
 
 
-### 🎯 Learning Objective:
+### 🎯 Learning Objectives:
 
 The goal of this repository is to:
 
