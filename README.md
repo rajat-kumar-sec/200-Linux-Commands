@@ -66,7 +66,7 @@ The goal of this repository is to:
 
 
 
-### 🚀 Future Enhancements
+### 🚀 Future Enhancements:
 
 Planned upgrades include
 
