@@ -5,7 +5,7 @@ A structured and curated collection of **200 essential Linux commands** designed
 - 🔐 Cybersecurity Enthusiasts
 - 🌐 Networking Students
 - ☁️ Cloud Learners
-- 🖥️ System Administrators.
+- 🖥️ System Administrators
 - 🛠️ DevOps Beginners.
 
 This repository represents continuous learning and practical Linux skill development.
