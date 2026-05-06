@@ -21,7 +21,7 @@ This project compiles 200 commonly used Linux commands with short and clear desc
 
 Still Updating This According to Time
 
-## 📂 Repository Contents
+## 📂 Repository Contents:
 
 - 📄 `200_Linux_Commands.pdf` – Complete list of 200 essential Linux commands Using Day to Day Life.
 
